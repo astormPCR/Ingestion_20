@@ -1,0 +1,36 @@
+{
+  "id": "5f1d3776-e76d-433a-bb78-f5668869bda9",
+  "custodianUid": "00000000-0000-0000-0000-000000000000",
+  "datasourceUid": "e4b30a37-d0bf-49d4-bee9-a0cc19959e6d",
+  "token": "@!!!@1367b51b5546387e545721934bd4f4c684ec78dd746a47c5feffac56f7a59e77",
+  "statementDate": "2019-01-04T00:00:00Z",
+  "accountUid": "c8e85643-f5f4-45a3-a184-d9d15ef2f199",
+  "firmId": 490,
+  "state": 3,
+  "exceedsSizeLimit": false,
+  "external": [
+    {
+      "identifiervalue": "USD",
+      "identifierName": "CASH",
+      "currency": "USD",
+      "firmId": null,
+      "batchid": null,
+      "securityGuid": null,
+      "previousPositionGuid": "7f3eccf4-6f67-4960-acd5-3ac90036785b",
+      "previousPositionQty": 993113.39,
+      "previousPositionStartDate": "2019-01-01T00:00:00+00:00",
+      "previousPositionEndDate": null,
+      "transactions": [
+        "Tran:FAA0411A|TradeDate:01/04/2019|Type:Withdraw|Qty:-75.00|Amt:0.00|Prc:1|Class:Private Equity",
+        "Tran:FAA0411B|TradeDate:01/04/2019|Type:Sell|Qty:-6166.20|Amt:0.00|Prc:4|Class:Equity"
+      ],
+      "taxlots": [],
+      "positions": [
+        "1/4/2019 12:00:00 AM|FAA0411||@!!!@1367b51b5546387e545721934bd4f4c684ec78dd746a47c5feffac56f7a59e77|Cash|DDA|36830|0|||||||||0.0000|0.0000||0|0|||0.00000|||986872.19000||||||||0.00|0.00|||986872.19|986872.19|USD|||||0.0000||||0.000000000||||"
+      ],
+      "customs": []
+    }
+  ],
+  "internal": null,
+  "batchid": 2019042913164916500
+}
